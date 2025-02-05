@@ -17,3 +17,7 @@ function newFunction3() {
 function newFunction4() {
     return "This is the new function which is going to be deleted after git reset if done four times";
 }
+
+function newFeatureCode() {
+    return "This is the new feature code";
+}
